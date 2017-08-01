@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.3.2"
+  }
+}
